@@ -1,2 +1,0 @@
-# gitBeginnerTest
-# gitTest2
